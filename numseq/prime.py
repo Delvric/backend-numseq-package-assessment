@@ -1,7 +1,7 @@
 #!/usr/local/env/ python
 # -*- coding: utf-8 -*-
 
-__author__ = 'Tiffany McLean with the help of a lot of googling'
+__author__ = "Delvric with the help of demo friend Mike Wilkerson Lone Star College"
 
 """
 - `primes(n)`:  Returns a list of all prime numbers less than n
